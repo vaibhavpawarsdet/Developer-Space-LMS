@@ -29,9 +29,8 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash 
-git clone git@github.com:Mithi-code/HMS-BE.git
+git clone git@github.com:vaibhavpawarsdet/Developer-Space-LMS.git
 
-cd HMS-BE
 ```
 
 - Install dependencies
@@ -43,8 +42,8 @@ npm install
 - To Start the development server
 ```bash
 
-// set ur entry point in pacage.json
-nodemon index.js / server.js
+// set ur entry point in pakage.json
+npm run dev
 
 ```
 # CONTRIBUTORS -- 
